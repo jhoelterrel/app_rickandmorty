@@ -7,7 +7,7 @@ const InputLocation = ({dataSelect, srtSearch, setId }) => {
       <>
         <div className="header">
           <div className="img-header">
-            <img src="/logo.svg" alt="logo" />
+            <img src="/assets/img/logo.svg" alt="logo" />
             <div className="input-search">
               <div className="input-content">
                 

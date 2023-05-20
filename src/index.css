@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background-image: url('header.png');
+  background-image: url('/public/assets/img/header.png');
   background-size: cover; 
   background-position: center; 
   font-family:'Times New Roman', Times, serif;
